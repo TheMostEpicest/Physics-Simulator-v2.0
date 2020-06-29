@@ -13,6 +13,8 @@ Change Log:
 - Fixed a bug with Edit Matrix popup showing incorrect data
 - Updated Delete Object confirmation popup
 
+See a list of planned features here: https://docs.google.com/document/d/190pYwx8QEMQ1SqyuEaX5m-g0uOwTZy1f6SfBDlwIWis/edit?usp=sharing
+
 See previous version (Archived) here: https://github.com/TheMostEpicest/Physics-Simulator-v1.1/
 
 This version will be archived once a new version is released.
